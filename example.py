@@ -1,3 +1,6 @@
-print('Просто эдак')
-print('some word')
-print('____')
+def text():
+  print('Просто эдак')  
+  print('some word')
+  print('____')
+  
+ text()
