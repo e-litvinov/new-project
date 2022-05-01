@@ -3,6 +3,6 @@ def text():
   print('some word')
   print('____')
   
- text()
+text()
 
 print('Конец')
