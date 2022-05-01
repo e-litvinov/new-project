@@ -5,4 +5,5 @@ def text():
   
 text()
 
-print('Коне')
+print('Конец')
+
